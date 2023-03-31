@@ -17,7 +17,7 @@ IDE
 For using this repository, use the following command.
 
 Git Clone:
-git clone https://github.com/SujalSkya/SujalAssissment.git
+git clone https://github.com/SujalShakyaSeva/SujalTask.git
 
 <p>Open the cloned repository and open terminal in Intellij or other IDE.</p>
 
